@@ -1,0 +1,8 @@
+const SCREEN_NAMES = {
+  WELCOME: 'WELCOME',
+  HOME: 'HOME',
+  ALBUM_DETAILS: 'ALBUM_DETAILS',
+  ARTIST_DETAILS: 'ARTIST_DETAILS',
+} as const;
+
+export default SCREEN_NAMES;
